@@ -1,0 +1,1 @@
+Replace assets/profile.jpg and assets/resume.pdf then upload to GitHub Pages.
